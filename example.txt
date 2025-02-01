@@ -1,1 +1,2 @@
-Hi, Modifying this content in branch X+1
+Hey, modifying the content in X-1 branch and resolved the conflict
+during merging
